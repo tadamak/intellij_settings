@@ -5,6 +5,9 @@
   <action id="$Cut">
     <keyboard-shortcut first-keystroke="shift delete" />
   </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="ctrl meta slash" />
@@ -56,6 +59,9 @@
   <action id="EditorPageUp">
     <keyboard-shortcut first-keystroke="page_up" />
     <keyboard-shortcut first-keystroke="meta v" />
+  </action>
+  <action id="EditorPaste">
+    <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorPasteSimple">
     <keyboard-shortcut first-keystroke="ctrl meta y" />
@@ -110,16 +116,29 @@
   <action id="NextOccurence">
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="meta y" />
   </action>
   <action id="PreviousOccurence">
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta 5" />
   </action>
   <action id="SelectNextOccurrence" />
+  <action id="ShowFilePath">
+    <keyboard-shortcut first-keystroke="ctrl meta f12" />
+  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
     <keyboard-shortcut first-keystroke="shift meta slash" />
