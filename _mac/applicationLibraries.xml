@@ -9241,6 +9241,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/nh4_provision-08f7615eb7c7/lib" />
       </SOURCES>
     </library>
+    <library name="nh4_provision (v0.1.0@0e312b, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/nh4_provision-0e312bdce4e6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/nh4_provision-0e312bdce4e6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/nh4_provision-0e312bdce4e6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/nh4_provision-0e312bdce4e6/lib" />
+      </SOURCES>
+    </library>
     <library name="nh4_provision (v0.1.0@65fd2a, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/bundler/gems/nh4_provision-65fd2ab9f387/bin" />
