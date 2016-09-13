@@ -16,6 +16,7 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="ctrl meta p" />
   </action>
+  <action id="ChangesView.Revert" />
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="0" />
   </action>
@@ -124,9 +125,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta down" />
   </action>
   <action id="NextTab">
-    <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="n" />
     <keyboard-shortcut first-keystroke="alt p" />
+    <keyboard-shortcut first-keystroke="meta right" />
   </action>
   <action id="PasteMultiple">
     <keyboard-shortcut first-keystroke="meta y" />
@@ -135,9 +136,9 @@
     <keyboard-shortcut first-keystroke="ctrl meta up" />
   </action>
   <action id="PreviousTab">
-    <keyboard-shortcut first-keystroke="alt left" />
     <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="p" />
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="meta left" />
   </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift meta 5" />
@@ -168,4 +169,5 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="Vcs.UpdateProject" />
 </keymap>
