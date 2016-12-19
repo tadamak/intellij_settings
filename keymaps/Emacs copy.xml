@@ -146,6 +146,9 @@
   <action id="ReplaceInPath">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="ShowFilePath">
     <keyboard-shortcut first-keystroke="ctrl meta f12" />
