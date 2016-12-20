@@ -1,5 +1,15 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="meta z" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="CollapseSelection" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="meta divide" />
+  </action>
+  <action id="Editor Undo">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
@@ -14,6 +24,9 @@
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="meta divide" />
   </action>
   <action id="OverrideMethods" />
 </keymap>
