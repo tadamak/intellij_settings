@@ -1,0 +1,19 @@
+<keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="CollapseSelection" />
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="meta b" />
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="meta period" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta o" />
+  </action>
+  <action id="OverrideMethods" />
+</keymap>
