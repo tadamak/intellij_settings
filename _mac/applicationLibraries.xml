@@ -11227,6 +11227,31 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/puma-3.6.2/tools" />
       </SOURCES>
     </library>
+    <library name="Python 3.5.2 (~/.pyenv/versions/anaconda3-4.2.0/bin/python3.5) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/Sphinx-1.4.6-py3.5.egg" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/aeosa" />
+        <root url="jar://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-371561303" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/plat-darwin" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/lib-dynload" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/Sphinx-1.4.6-py3.5.egg" />
+        <root url="file://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/aeosa" />
+        <root url="jar://$USER_HOME$/.pyenv/versions/anaconda3-4.2.0/lib/python3.5/site-packages/setuptools-27.2.0-py3.5.egg!/" />
+        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2016.3/python_stubs/-371561303" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
+      </SOURCES>
+    </library>
     <library name="Python 3.6.0 (~/.pyenv/versions/3.6.0/bin/python3.6) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.6.0/lib/python3.6" />
