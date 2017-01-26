@@ -11986,6 +11986,11 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/puma-3.6.2/tools" />
       </SOURCES>
     </library>
+    <library name="Python 2.7.10 (/usr/bin/python) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="quiet_assets (v1.1.0, rbenv: 2.2.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.3/lib/ruby/gems/2.2.0/gems/quiet_assets-1.1.0/lib" />
