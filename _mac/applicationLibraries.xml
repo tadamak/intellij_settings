@@ -1919,6 +1919,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/cancancan-1.16.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="cancancan (v2.0.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/cancancan-2.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/cancancan-2.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="cap-ec2 (v1.0.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/cap-ec2-1.0.0/lib" />
@@ -2489,6 +2498,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/coffee-rails-4.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="coffee-rails (v4.2.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/coffee-rails-4.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/coffee-rails-4.2.2/lib" />
       </SOURCES>
     </library>
     <library name="coffee-script (v2.4.1, rbenv: 2.2.5) [gem]">
@@ -3232,6 +3250,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.5/config" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.5/vendor" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.5/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="doorkeeper (v4.2.6, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/app" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/config" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/vendor" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/doorkeeper-4.2.6/gemfiles" />
       </SOURCES>
     </library>
     <library name="dotenv (v2.1.1, rbenv: 2.2.5) [gem]">
@@ -10384,6 +10419,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/simple_form-3.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="simple_form (v3.5.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/simple_form-3.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/simple_form-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="simplecov (v0.11.2, rbenv: 2.2.5) [gem]">
