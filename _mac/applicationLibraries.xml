@@ -836,6 +836,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.10.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-2.10.4/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.2.31, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/aws-sdk-2.2.31/lib" />
@@ -1094,6 +1103,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.3/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.3/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.4/apis" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-2.10.4/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.2.31, rbenv: 2.2.5) [gem]">
@@ -1450,6 +1472,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.10.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.10.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-resources-2.10.4/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.2.31, rbenv: 2.2.5) [gem]">
@@ -8522,6 +8553,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/phony-2.15.44/lib" />
       </SOURCES>
     </library>
+    <library name="phony (v2.15.46, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/phony-2.15.46/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/phony-2.15.46/lib" />
+      </SOURCES>
+    </library>
     <library name="phony_rails (v0.13.0, rbenv: 2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.2.5/lib/ruby/gems/2.2.0/gems/phony_rails-0.13.0/lib" />
@@ -9578,6 +9618,19 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ransack-1.8.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-fsevent (v0.10.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/rb-fsevent-0.10.2/lib" />
       </SOURCES>
     </library>
     <library name="rb-fsevent (v0.9.7, rbenv: 2.2.5) [gem]">
@@ -11078,6 +11131,19 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.1/test_workers" />
       </SOURCES>
     </library>
+    <library name="shoryuken (v3.0.11, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.11/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.11/test_workers" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.11/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.11/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.11/test_workers" />
+      </SOURCES>
+    </library>
     <library name="shoryuken (v3.0.3, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/shoryuken-3.0.3/bin" />
@@ -11366,6 +11432,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slack-notifier-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="slack-notifier (v2.2.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slack-notifier-2.2.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/slack-notifier-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="slim (v3.0.6, rbenv: 2.2.5) [gem]">
@@ -11928,6 +12003,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/timecop-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="timecop (v0.9.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/timecop-0.9.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/timecop-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="timers (v4.1.1, rbenv: 2.2.5) [gem]">
