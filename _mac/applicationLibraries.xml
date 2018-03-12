@@ -6416,6 +6416,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="axlsx (v3.0.0.pre, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/axlsx-3.0.0.pre/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/axlsx-3.0.0.pre/lib" />
+      </SOURCES>
+    </library>
     <library name="axlsx (v3.0.0.pre, rbenv: 2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/axlsx-3.0.0.pre/lib" />
@@ -11758,6 +11767,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/tasks" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
+      </SOURCES>
+    </library>
+    <library name="htmlentities (v4.3.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/htmlentities-4.3.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/htmlentities-4.3.4/perf" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/htmlentities-4.3.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
     <library name="htmlentities (v4.3.4, rbenv: 2.4.3) [gem]">
@@ -21114,6 +21134,15 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/zendesk_api-1.16.0/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/zendesk_api-1.16.0/util" />
+      </SOURCES>
+    </library>
+    <library name="zip-zip (v0.3, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/zip-zip-0.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/zip-zip-0.3/lib" />
       </SOURCES>
     </library>
     <library name="zip-zip (v0.3, rbenv: 2.4.3) [gem]">
