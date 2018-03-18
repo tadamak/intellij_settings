@@ -11986,6 +11986,17 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/hitimes-1.2.4/ext" />
       </SOURCES>
     </library>
+    <library name="holidays (v6.4.0, rbenv: 2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/holidays-6.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/holidays-6.4.0/bin" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/holidays-6.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.3/lib/ruby/gems/2.3.0/gems/holidays-6.4.0/bin" />
+      </SOURCES>
+    </library>
     <library name="http (v3.0.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http-3.0.0/lib" />
