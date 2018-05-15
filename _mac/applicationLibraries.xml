@@ -1913,6 +1913,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-partitions-1.76.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.87.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-partitions-1.87.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-partitions-1.87.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.66.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-1.66.0/lib" />
@@ -4081,6 +4090,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-core-3.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v3.20.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.20.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-core-3.20.2/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-costandusagereportservice (v1.0.0, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-costandusagereportservice-1.0.0/lib" />
@@ -5267,6 +5285,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sdk-kms-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-kms (v1.5.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-kms-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-lambda (v1.0.0, rbenv: 2.3.1) [gem]">
@@ -6600,6 +6627,15 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-s3-1.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.10.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-s3-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sdk-s3-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3 (v1.8.1, rbenv: 2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/aws-sdk-s3-1.8.1/lib" />
@@ -7443,6 +7479,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.4.3/lib/ruby/gems/2.4.0/gems/aws-sigv4-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.2, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sigv4-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/aws-sigv4-1.0.2/lib" />
       </SOURCES>
     </library>
     <library name="axlsx (v3.0.0.pre, rbenv: 2.3.1) [gem]">
@@ -14265,6 +14310,15 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/jmespath-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="jmespath (v1.4.0, rbenv: 2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jmespath-1.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.5.1/lib/ruby/gems/2.5.0/gems/jmespath-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="jquery-datatables-rails (v3.4.0, rbenv: 2.3.1) [gem]">
